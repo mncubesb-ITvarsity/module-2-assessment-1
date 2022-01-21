@@ -180,3 +180,7 @@ textarea{
     margin : 12px 0;
     padding : 8px 0;
 }
+p
+{
+    text-align: center;
+}
